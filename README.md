@@ -6,7 +6,6 @@
 ## Features
 - *Collaborative Filtering*: Uses the MovieLens dataset to provide personalized movie recommendations based on user input.
 - *User-Friendly Interface*: The system features a clean and interactive interface, making it easy for users to input their preferences and receive recommendations.
-- *Backend Processing*: Python is used for efficient data handling, filtering, and recommendation generation.
 - *Scalable*: The system can be easily extended to support more advanced recommendation algorithms.
 
 ## Demo
@@ -17,8 +16,8 @@
 - *Python*
 - *Pandas* (for data manipulation)
 - *NumPy* (for numerical computations)
-- *Scikit-learn* (for collaborative filtering algorithms)
-- *Flask* (for backend and server-side handling)
+- *sklearn* 
+
 
 ## Dataset
 - *MovieLens Dataset*: The system uses the MovieLens dataset to generate recommendations. You can download the dataset from [MovieLens](https://grouplens.org/datasets/movielens/).
@@ -27,7 +26,7 @@
 
 ### Prerequisites
 - Python 3.x
-- Libraries: Pandas, NumPy, Scikit-learn, Flask
+- Libraries: Pandas, NumPy,sklearn
 
 ### Steps to Run:
 1. Clone the repository:
