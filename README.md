@@ -9,7 +9,6 @@
 - *Scalable*: The system can be easily extended to support more advanced recommendation algorithms.
 
 ## Demo
-- [Demo Link](https://drive.google.com/drive/folders/1Djy2BT3Ia5HRavLCX6yapt9t_PVZn4MR) 
 - [GitHub Repository](https://github.com/Sayanijana23/movie-matcher)
 
 ## Tech Stack
